@@ -31,14 +31,14 @@ Snapshot of Homepage:
 
 Snapshot of homepage with search results
 
-![alt text](https://github.com/JackLabukas/24-7-Jobs-group-project/blob/main/src/components/images/snapshot2.png?raw=true)
+![alt text](https://github.com/agaffar74/24-7Jobs/blob/main/src/components/images/snapshot2.png?raw=true)
 
 Snapshot of About page:
-![alt text](https://github.com/JackLabukas/24-7-Jobs-group-project/blob/main/src/components/images/aboutpage.png?raw=true)
+![alt text](https://github.com/agaffar74/24-7Jobs/blob/main/src/components/images/aboutpage.png?raw=true)
 
 Snapshot of Team page:
 
-![alt text](https://github.com/JackLabukas/24-7-Jobs-group-project/blob/main/src/components/images/teampage.png?raw=true)
+![alt text](https://github.com/agaffar74/24-7Jobs/blob/main/src/components/images/teampage.png?raw=true)
 
 ## Getting Started
 The following instructions will enable you to get you a copy of the App up and running on your local machine for development and testing purposes.
