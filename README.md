@@ -1,4 +1,4 @@
-# 247Jobs
+# 24/7 Jobs
 
 ## Overview :
 This is a client-side single-page application for job search using the React.js programming language along with other technologies, i.e. Node.js, HTML, CSS etc. This job search application is linked with LinkedIn Api for job search that allow user to quickly find job opportunities with location-based search.
@@ -25,11 +25,11 @@ Please check out the Netlify demo at : https://clever-licorice-1d10fe.netlify.ap
 
 Some snapshots of the live app are attached below:
 
-Snapshot of Homepage:
+Snapshot of Homepage with Dark Mode:
 
 ![alt text](https://github.com/agaffar74/24-7Jobs/blob/main/src/components/images/snapshot1.png?raw=true)
 
-Snapshot of homepage with search results
+Snapshot of homepage with Light Mode:
 
 ![alt text](https://github.com/agaffar74/24-7Jobs/blob/main/src/components/images/snapshot2.png?raw=true)
 
@@ -47,7 +47,7 @@ The following instructions will enable you to get you a copy of the App up and r
 ### Installing
 Installing the app is very simple and consists of the following steps:
 
-1. Clone the app: git clone https://github.com/JackLabukas/group-project-2.git && cd group-project-2
+1. Clone the app: git clone https://github.com/agaffar74/24-7Jobs.git && cd 24-7Jobs
 2. Install relevent packages: npm install
 3. Setup a new or existing npm package using initilizer: npm init using any terminal, i.e. VS Code
 2. Build the project: npm run build (The app will be running at localhost:3001 or 3002....3,4 etc as a default URL address)
@@ -70,6 +70,10 @@ Create React App - A comfortable environment for learning React, and is the best
 
 ## Code Editor
 We used Visual Studio Code which is a powerful, lightweight code editor for Windows, macOS and Linux.
+
+## Links
+* [Link to the deployed website](https://agaffar74.github.io/24-7Jobs/)
+* [Link to the code repository](https://github.com/agaffar74/energise)
 
 
 ## Contributing
