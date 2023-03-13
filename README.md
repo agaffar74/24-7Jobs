@@ -27,7 +27,7 @@ Some snapshots of the live app are attached below:
 
 Snapshot of Homepage:
 
-![alt text](https://github.com/JackLabukas/24-7-Jobs-group-project/blob/main/src/components/images/snapshot1.png?raw=true)
+![alt text](https://github.com/agaffar74/24-7Jobs/blob/main/src/components/images/snapshot1.png?raw=true)
 
 Snapshot of homepage with search results
 
