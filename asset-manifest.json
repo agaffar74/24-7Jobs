@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/24-7Jobs/static/css/main.aefcf281.css",
+    "main.js": "/24-7Jobs/static/js/main.be42316e.js",
+    "static/js/787.57d48277.chunk.js": "/24-7Jobs/static/js/787.57d48277.chunk.js",
+    "static/media/MyPhoto.jpg": "/24-7Jobs/static/media/MyPhoto.be83a2bdcf9b91d3c7df.jpg",
+    "index.html": "/24-7Jobs/index.html",
+    "main.aefcf281.css.map": "/24-7Jobs/static/css/main.aefcf281.css.map",
+    "main.be42316e.js.map": "/24-7Jobs/static/js/main.be42316e.js.map",
+    "787.57d48277.chunk.js.map": "/24-7Jobs/static/js/787.57d48277.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aefcf281.css",
+    "static/js/main.be42316e.js"
+  ]
+}
