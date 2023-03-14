@@ -7,7 +7,7 @@ export default {
       url: "https://linkedin-jobs-search.p.rapidapi.com/",
       headers: {
         "content-type": "application/json",
-        "X-RapidAPI-Key": "599f78da9amsh31274acce812c0ap1f8cbbjsn35942846d91c",
+        "X-RapidAPI-Key": "28ec969346msh09c8cbb23ecba8cp1c270bjsnb848bb726de2",
         "X-RapidAPI-Host": "linkedin-jobs-search.p.rapidapi.com",
       },
       data: `{"search_terms":"${title}","location":"uk","page":"1"}`,

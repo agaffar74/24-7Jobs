@@ -19,11 +19,7 @@ function JobList(props) {
               }}
               key={uuidv4()}
             >
-              <img
-                className="card-img-top"
-                src="https://img.freepik.com/free-vector/life-city-concept-illustration_114360-8628.jpg?w=826&t=st=1677097056~exp=1677097656~hmac=69720491dfc78a76d2351ff6966981df07143c11a1a7160c2cb51f58d93fea08"
-                alt="Card image cap"
-              ></img>
+
               <div className="card-body">
                 <h5 className="card-title text-uppercase">{job.job_title}</h5>
 
