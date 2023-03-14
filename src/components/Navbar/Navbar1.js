@@ -7,7 +7,6 @@ import { useState, useContext } from "react";
 import { ThemeContext } from "../../App";
 import { motion } from "framer-motion";
 
-
 function NavBar1() {
   const [darkTheme, setDarkTheme] = useState(false);
   const { changeTheme } = useContext(ThemeContext);
@@ -37,7 +36,7 @@ function NavBar1() {
         // }}
         animate={{ x: 500 }}
         transition={{ delay: 1 }}
-        className="navbar-brand p-5 text-info display-5"
+        className="navbar-brand p-5 text-info text-uppercase display-5"
         href="/"
       >
         <div>
@@ -68,7 +67,7 @@ function NavBar1() {
                 restDelta: 0.001,
               },
             }}
-            className="nav-item nav-link active text-light"
+            className="nav-item nav-link active text-light text-uppercase"
             href="/"
           >
             Home
@@ -88,7 +87,7 @@ function NavBar1() {
                 restDelta: 0.001,
               },
             }}
-            className="nav-item nav-link text-light"
+            className="nav-item nav-link text-light text-uppercase"
             href="/about"
           >
             About
@@ -108,7 +107,7 @@ function NavBar1() {
                 restDelta: 0.001,
               },
             }}
-            className="nav-item nav-link text-light"
+            className="nav-item nav-link text-light text-uppercase"
             href="/team"
           >
             Team

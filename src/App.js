@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import JobList from "./components/JobList";
 import About from "./components/How-It-Works";
 import Footer from "./components/Footer/Footer";
-import Navbar from "./components/Navbar/Navbar";
+import Navbar1 from "./components/Navbar/Navbar1";
 import { createContext } from "react";
 import React, { useState, useEffect } from "react";
 import News from "./components/News";
@@ -34,7 +34,7 @@ function App() {
 
   return (
     <ThemeContext.Provider value={{ theme, changeTheme }}>
-      <Navbar />
+      <Navbar1 />
       <div className="container" id={theme}>
         <div className="row">
           <Router>
