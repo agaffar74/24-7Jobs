@@ -49,6 +49,7 @@ function App() {
                   </>
                 }
               />
+
               <Route path="/about" element={<About />} />
               <Route path="/team" element={<Team />} />
             </Routes>     
